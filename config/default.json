@@ -1,0 +1,4 @@
+{
+"mongoURI" : "mongodb+srv://shubhi:shubhi@devconnector.kcpys.mongodb.net/DevConnector?retryWrites=true&w=majority",
+"jwtSecret": "mycreation"
+}
